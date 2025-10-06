@@ -31,3 +31,7 @@
 - Insertar datos en la tabla creada.
 - Eliminar la tabla.
 - Explicar en el video cómo este rol es esencial para tareas de administración general de la base de datos y cómo se debe restringir este acceso solo a usuarios confiables
+
+# Estudiantes:
+- Luz Enith Soto Bermon
+- Danna Valentina Guerrero Soto
